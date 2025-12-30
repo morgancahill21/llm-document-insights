@@ -1,0 +1,15 @@
+{
+  "risks": [
+    {
+      "category": "Mock Risk",
+      "description": "This is a mock risk"
+    }
+  ],
+  "action_items": [
+    {
+      "action": "Mock Action",
+      "owner": "N/A",
+      "deadline": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Company Data Access Policy Update - example
+
+All employees must follow the updated data access workflow. 
+Data owners are assigned for all critical assets. Legal approval is required for access to sensitive data. 
+Training sessions will be held by Operations to ensure compliance.
+
+Deadlines:
+- Legal review: March 15, 2025
+- Data owner assignment: March 30, 2025
+- Training rollout: April 10, 2025
